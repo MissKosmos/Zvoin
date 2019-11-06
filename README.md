@@ -1,2 +1,0 @@
-# Zvoin
-Created with CodeSandbox
